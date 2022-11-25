@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{95DE9439-5E16-40A5-979D-437D4073063E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZelenchukovaBorsa", "ZelenchukovaBorsa\ZelenchukovaBorsa.csproj", "{7DEE5552-DC8C-4F8C-AACB-18D976247EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DE9439-5E16-40A5-979D-437D4073063E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DE9439-5E16-40A5-979D-437D4073063E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DE9439-5E16-40A5-979D-437D4073063E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DE9439-5E16-40A5-979D-437D4073063E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEE5552-DC8C-4F8C-AACB-18D976247EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEE5552-DC8C-4F8C-AACB-18D976247EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEE5552-DC8C-4F8C-AACB-18D976247EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEE5552-DC8C-4F8C-AACB-18D976247EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14130CA-8D20-498B-90CE-C9E4EA231E5C}
+	EndGlobalSection
+EndGlobal
